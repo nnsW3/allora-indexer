@@ -31,7 +31,7 @@ const (
 	EMAScoreEvent EventType = "emascore"
 	// TokenomicsEvent represents a ema score event
 	TokenomicsEvent EventType = "tokenomics"
-	// EcosystemTokenMintEvent represents a ecosystem token mint event
+	// EcosystemTokenMintEvent represents an ecosystem token mint event
 	EcosystemTokenMintEvent EventType = "ecosystemTokenMint"
 	// RewardCurrentBlockEmissionEvent represents a reward current block emission event
 	RewardCurrentBlockEmissionEvent EventType = "rewardCurrentBlockEmission"
